@@ -1,5 +1,5 @@
 # Manual Testing for www.othoba.com
-## Welcome to the www.othoba.com manual testing documentation repository. This repository contains manual testing documentation conducted on www.othoba.com, Bangladesh's leading online shopping platform.
+Welcome to the www.othoba.com manual testing documentation repository. This repository contains manual testing documentation conducted on www.othoba.com, Bangladesh's       leading online shopping platform.
 
 ## Content
 
